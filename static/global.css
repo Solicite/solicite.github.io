@@ -1,0 +1,9 @@
+.bg {
+  background-image: url("../src/assets/bg-15.jpg");
+  background-size: cover;
+}
+
+
+.no-underline {
+  text-decoration:none;
+}
